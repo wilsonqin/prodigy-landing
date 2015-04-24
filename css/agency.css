@@ -341,7 +341,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
     }
 }
 
@@ -652,14 +652,11 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat;
+    background-color: #fff;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #2b2b2b;
 }
 
 section#contact .form-group {
